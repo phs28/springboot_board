@@ -1,1 +1,1 @@
-# springboot_board
+# springboot_board(게시판)
